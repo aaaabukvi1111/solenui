@@ -1,0 +1,46 @@
+input {
+    height: 100px;
+    width: 400px;
+    font-size: 40px;
+  }
+  
+  button {
+    height: 100px;
+    width: 600px;
+    font-size: 40px;
+  }
+  
+  p {
+    font-size: 40px;
+    background-color: rgb(235, 152, 51);
+  }
+  body {
+    background: rgb(240, 177, 60);
+  }
+  
+  div {
+    display: flex;
+  }
+  
+  input {
+    height: 100px;
+    width: 400px;
+    font-size: 40px;
+    border-radius: 9px;
+    color: rgb(88, 50, 6);
+    background-color: rgb(204, 125, 34);
+  }
+  
+  button {
+    height: 100px;
+    width: 600px;
+    font-size: 40px;
+    border-radius: 9px;
+    color:  rgb(150, 84, 10);
+    background-color: rgb(224, 139, 28);
+  }
+  
+  p {
+    font-size: 40px;
+    color: rgb(161, 100, 20);
+  }
